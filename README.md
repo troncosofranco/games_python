@@ -1,2 +1,2 @@
-# basic_projects_python
+# games_python
 Basic Projects in python
